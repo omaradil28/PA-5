@@ -6,7 +6,7 @@
 int main()
 {
 	Run app;
-	//app.runSim();
+	app.runSim();
 	app.runTest();
 	return 0;
 }
